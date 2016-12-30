@@ -11,6 +11,23 @@
 
 => sass
 
+Files Structure !
+
+-index.html
+
+-assets <br/>
+&nbsp;&nbsp;&nbsp;->|--css <br>
+&nbsp;&nbsp;&nbsp;->|--js <br>
+&nbsp;&nbsp;&nbsp;->|--sass <br>
+&nbsp;&nbsp;&nbsp;->|--images <br>
+&nbsp;&nbsp;&nbsp;->|--lib <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;->|--boostrap <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;->|-font-awesome <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;->|-swiper <br>
+    
+    
+    
+
 MIT License
 
 Copyright (c) 2016 Pradipta Sarker
